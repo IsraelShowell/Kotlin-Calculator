@@ -23,8 +23,6 @@ Initial Version <br>
 Uploaded to Github <br>
 User can carryout basic arithmetic functions on numbers 
 
- 
-
 # Current Features as of V-1.00:
 - User can carryout basic arithmetic functions on numbers 
 
