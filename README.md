@@ -19,9 +19,9 @@ https://www.youtube.com/@EasyTuto1
 
 # Version History:
 # V-1.00: (4-15-18-24)
-Initial Version <br>
-Uploaded to Github <br>
-User can carryout basic arithmetic functions on numbers 
+- Initial Version <br>
+- Uploaded to Github <br>
+- User can carryout basic arithmetic functions on numbers 
 
 # Current Features as of V-1.00:
 - User can carryout basic arithmetic functions on numbers 
